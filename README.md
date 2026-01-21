@@ -1,2 +1,2 @@
 # 20251031
-Genome-wide association and haplotype analyses of resistance to Pst in 236 current Chinese wheat cultivars and advanced lines
+QYr.cib-3A combined with the Thinopyrum intermedium 6A translocation fragment enhances wheat resistance to stripe rust
